@@ -1,0 +1,3 @@
+#built using mc-build (https://github.com/IanSSenne/mcbuild), Datapack by Mizab
+
+give @s netherite_pickaxe{display:{Name:'{"text":"Dealpool Pickaxe","italic":false}'},HideFlags:63,CustomModelData:110007,deadpool:1b,Enchantments:[{id:"minecraft:sharpness",lvl:15s},{id:"minecraft:smite",lvl:15s},{id:"minecraft:bane_of_arthropods",lvl:15s},{id:"minecraft:looting",lvl:5s},{id:"minecraft:efficiency",lvl:6s}]} 1

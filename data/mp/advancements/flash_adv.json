@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "Unlocked": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "mp:flash"
+            }
+        }
+    },
+    "rewards": {
+        "function": "mp:crafted/flash"
+    }
+}
